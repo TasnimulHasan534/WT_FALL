@@ -67,7 +67,7 @@ if(isset($_REQUEST["submit"]))
     }
     else
     {
-        $fameLength="father name  length is ok";
+        $fNameLength="father name  length is ok";
     }
 
 }
